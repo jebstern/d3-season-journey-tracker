@@ -3,6 +3,7 @@ import 'package:d3_season_journey/pages/home_page.dart';
 import 'package:d3_season_journey/service/api_service.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:flutter/services.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -17,6 +18,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+      DeviceOrientation.portraitDown,
+    ]);
     return GetMaterialApp(
       title: 'D3 Journey Tracker',
       theme: ThemeData(
@@ -42,6 +47,7 @@ class MyApp extends StatelessWidget {
         dividerColor: Colors.white,
       ),
       home: const HomePage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }

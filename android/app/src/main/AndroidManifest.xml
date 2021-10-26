@@ -1,7 +1,19 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jebstern.d3_season_journey">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+  <!-- Provide required visibility configuration for API level 30 and above -->
+  <queries>
+    <intent>
+      <action android:name="android.intent.action.VIEW" />
+      <data android:scheme="https" />
+    </intent>
+  </queries>
+
    <application
-        android:label="d3_season_journey"
+        android:label="D3 SJ"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

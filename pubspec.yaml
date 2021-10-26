@@ -20,6 +20,7 @@ dependencies:
   percent_indicator: ^3.4.0
   collection: ^1.15.0
   share: ^2.0.4
+  url_launcher: ^6.0.12
 
 
 dev_dependencies:

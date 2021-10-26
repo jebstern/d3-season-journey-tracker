@@ -15,15 +15,21 @@ class SettingsPage extends StatelessWidget {
       body: Column(
         children: [
           ListTile(
-            leading: const Icon(Icons.delete_forever),
+            leading: const Icon(Icons.delete_forever, color: Colors.white),
             title: const Text("Clear completed challenges"),
             subtitle: const Text("This action can't be undone!"),
             onTap: () async {
               await c.clearCompletedChallenges();
               Get.dialog(
                 AlertDialog(
-                  title: const Text("Challenges cleared"),
-                  content: const Text("All completed challenges cleared."),
+                  title: const Text(
+                    "Challenges cleared",
+                    style: TextStyle(color: Colors.black),
+                  ),
+                  content: const Text(
+                    "All completed challenges cleared.",
+                    style: TextStyle(color: Colors.black),
+                  ),
                   actions: [
                     TextButton(
                       onPressed: () => Get.back(),

@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
           child: _getContent(controller),
         ),
       ),
-      drawer: NavDrawerWidget(),
+      drawer: const NavDrawerWidget(),
     );
   }
 
