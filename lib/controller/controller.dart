@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:d3_season_journey/model/challenge_model.dart';
 import 'package:d3_season_journey/model/season_journey_model.dart';
-import 'package:d3_season_journey/model/stats_model.dart';
+import 'package:d3_season_journey/model/stats.dart';
 import 'package:d3_season_journey/repository/db_provider.dart';
 import 'package:d3_season_journey/service/api_service.dart';
 import 'package:get/get.dart';
