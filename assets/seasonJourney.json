@@ -1,0 +1,159 @@
+{
+  "title": "Season 22",
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "challenges": [
+        "Normal Rift",
+        "Level 50",
+        "Cydaea",
+        "Skeleton King",
+        "5 bounties",
+        "Socket 5 gems",
+        "Blacksmith lvl 10",
+        "Jeweler lvl 10",
+        "Mystic lvl 10"
+      ],
+      "reward": "No reward"
+    },
+    {
+      "title": "Chapter 2",
+      "challenges": [
+        "Expert Rift",
+        "Level 70",
+        "Araneae (Hard, 60+)",
+        "Ghom (Hard, 60+)",
+        "Unlock Kanai's Cube",
+        "Fully equip follower",
+        "All artisans lvl 12",
+        "Craft lvl70 item at Blacksmith",
+        "Craft lvl70 item at Jeweler",
+        "Enchant at Mystic",
+        "Transmogrify at Mystic"
+      ],
+      "reward": "1st Haedrig (head + hands), transmog (lvl 70)"
+    },
+    {
+      "title": "Chapter 3",
+      "challenges": [
+        "Master Rift",
+        "Buy item from Kadala",
+        "Malthael (Master, 70+)",
+        "Izual (Master, 70+)",
+        "Extract a Legendary Power",
+        "Craft Imperial or greater gem",
+        "Obtain a Act I Bounty Cache",
+        "Obtain a Act II Bounty Cache",
+        "Obtain a Act III Bounty Cache",
+        "Obtain a Act IV Bounty Cache",
+        "Obtain a Act V Bounty Cache"
+      ],
+      "reward": "2nd Haedrig (feet + shoulder)"
+    },
+    {
+      "title": "Chapter 4",
+      "challenges": [
+        "Belial (T4, level 70)",
+        "Diablo (T2, level 70)",
+        "GR20 solo",
+        "Keywarden Act 1 (T4)",
+        "Keywarden Act 2 (T4)",
+        "Keywarden Act 3 (T4)",
+        "Keywarden Act 4 (T4)",
+        "Learn 5 blacksmith recipes",
+        "Learn 5 jewelcrafter designs",
+        "Reforge socket on weapon",
+        "T1 Rift",
+        "Upgrade rareto legendary"
+      ],
+      "reward": "3nd Haedrig, Portrait frame"
+    },
+    {
+      "title": "Slayer",
+      "challenges": [
+        "Socket 5 gems",
+        "Cydaea",
+        "Jeweler level 10",
+        "Blacksmith level 10",
+        "Mystic level 10",
+        "Normal Rift",
+        "5 bounties",
+        "Skeleton King",
+        "Level 50"
+      ],
+      "reward": "Portrait frame"
+    },
+    {
+      "title": "Slayer",
+      "challenges": [
+        "(A1) Realm of Regret (T1)",
+        "(A2) Realm of Putridness (T1)",
+        "Azmodan (T7)",
+        "Complete a Set Dungeon",
+        "Equip all three Cube slots",
+        "Get legendary from Kadala",
+        "GR30 solo",
+        "One gem to rank 25",
+        "Siegebreaker (T7)",
+        "T5 Rift"
+      ],
+      "reward": "Portrait frame"
+    },
+    {
+      "title": "Champion",
+      "challenges": [
+        "(A3) Realm of Terror (T10)",
+        "(A4) Realm of Fright (T10)",
+        "Kulle (T10)",
+        "Master a Set Dungeon",
+        "Convert a set item",
+        "Craft a Flawless Royal gem",
+        "GR40 solo",
+        "Three gems to rank 35",
+        "Butcher (T10)",
+        "T10 Rift in under 6 minutes"
+      ],
+      "reward": "Portrait frame"
+    },
+    {
+      "title": "Destroyer",
+      "challenges": [
+        "Complete 1 conquest",
+        "Craft Hellfire Amulet",
+        "Extract 20 Cube powers",
+        "GR50 solo",
+        "Rakanoth (T13)",
+        "T12 Rift in under 6 minutes",
+        "Three gems to rank 45",
+        "Urzael (T13)"
+      ],
+      "reward": "Portrait frame"
+    },
+    {
+      "title": "Conqueror",
+      "challenges": [
+        "Complete 2 conquests",
+        "GR60 solo",
+        "Greed (T13)",
+        "Magda (T13) in under 15 sec.",
+        "One 50+ augment",
+        "Reforge a legendary",
+        "T13 Rift in under 5 minutes",
+        "Three gems to rank 55"
+      ],
+      "reward": "Stash tab, Portrait frame"
+    },
+    {
+      "title": "Guardian",
+      "challenges": [
+        "Adria (T13) in under 15 sec.",
+        "Complete 3 conquests",
+        "Extract 40 Cube powers",
+        "GR70 solo",
+        "T13 Rift in under 4 minutes",
+        "Three gems to rank 70"
+      ],
+      "reward": "Pet, Portrait frame"
+    }
+  ]
+}

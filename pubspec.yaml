@@ -1,0 +1,37 @@
+name: d3_season_journey
+description: Diablo III season journey tracker.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: ^4.3.8
+  intl: ^0.17.0
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
+  path_provider: ^2.0.5
+  percent_indicator: ^3.4.0
+  collection: ^1.15.0
+  share: ^2.0.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/seasonJourney.json
